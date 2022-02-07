@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolappEngin", "ConsolappEngin\ConsolappEngin.csproj", "{88EE2B8A-9B70-4F9C-A60E-780A5A988EC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolappEngin", "ConsolappEngin\ConsolappEngin.csproj", "{88EE2B8A-9B70-4F9C-A60E-780A5A988EC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{C67EAFCC-3906-4FA2-B6EC-742BE3686501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{C67EAFCC-3906-4FA2-B6EC-742BE3686501}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{E31720ED-93C3-41B3-836C-FAB9121C38EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kendiDenemelerim", "kendiDenemelerim\kendiDenemelerim.csproj", "{3BD61D2D-D2C2-4B7A-ABE2-710432CB55A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{28DE4BF7-3A28-49E0-81EC-C9335ACF1426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{469140F1-6C04-4BEE-ADC0-CCEFBA0EC636}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{C67EAFCC-3906-4FA2-B6EC-742BE3686501}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C67EAFCC-3906-4FA2-B6EC-742BE3686501}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C67EAFCC-3906-4FA2-B6EC-742BE3686501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31720ED-93C3-41B3-836C-FAB9121C38EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31720ED-93C3-41B3-836C-FAB9121C38EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31720ED-93C3-41B3-836C-FAB9121C38EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31720ED-93C3-41B3-836C-FAB9121C38EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD61D2D-D2C2-4B7A-ABE2-710432CB55A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD61D2D-D2C2-4B7A-ABE2-710432CB55A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD61D2D-D2C2-4B7A-ABE2-710432CB55A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD61D2D-D2C2-4B7A-ABE2-710432CB55A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28DE4BF7-3A28-49E0-81EC-C9335ACF1426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DE4BF7-3A28-49E0-81EC-C9335ACF1426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DE4BF7-3A28-49E0-81EC-C9335ACF1426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DE4BF7-3A28-49E0-81EC-C9335ACF1426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{469140F1-6C04-4BEE-ADC0-CCEFBA0EC636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469140F1-6C04-4BEE-ADC0-CCEFBA0EC636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469140F1-6C04-4BEE-ADC0-CCEFBA0EC636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469140F1-6C04-4BEE-ADC0-CCEFBA0EC636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
